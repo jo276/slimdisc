@@ -1,5 +1,5 @@
 This repository contains the drive python files for the external photoevaporation
-slim disc models published in Owen & Altaf XXXX (arXiv:XXXX).
+slim disc models published in Owen & Altaf  2021, Monthly Notices of the Royal Astronomical Society, Volume 508, Issue 2, pp.2493-2504.
 
 It contains a python file with all the main functions and an example notebook that
 demonstrates how to construct the standard non-isothermal model with dust described in the paper.
